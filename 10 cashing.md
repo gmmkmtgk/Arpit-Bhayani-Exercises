@@ -142,3 +142,10 @@ print("MySQL SELECT time:", time.time() - start)
 * **Redis**: microseconds per operation, \~100k+ ops/sec.
 * **MySQL/Postgres**: milliseconds per operation, \~1k–10k ops/sec depending on setup.
 * Redis is much faster because it works **in-memory**, while databases involve **disk I/O and transactions**.
+
+
+<img width="717" height="1000" alt="image" src="https://github.com/user-attachments/assets/c88658e1-41e9-47f2-a53b-68b6062dbc5a" />
+
+<img width="595" height="902" alt="image" src="https://github.com/user-attachments/assets/fd48e71a-a646-4949-a0e2-4c8c0ecece4f" />
+
+
